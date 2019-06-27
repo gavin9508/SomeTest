@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.gavin.test.config.DbConfig",
+      "name": "",
+      "type": "com.gavin.test.config.DbConfig"
+    },
+    {
+      "sourceType": "com.gavin.test.config.DbConfig",
+      "name": "spring.datasource",
+      "sourceMethod": "dataSource()",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}
